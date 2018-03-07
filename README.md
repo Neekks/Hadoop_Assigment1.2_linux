@@ -1,0 +1,2 @@
+# Hadoop_Assigment1.2_linux
+Bigdata_hadoop_session1Assigment1_linux_command
